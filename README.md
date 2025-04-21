@@ -1,0 +1,2 @@
+# Beagle
+The Beagle Blog\
